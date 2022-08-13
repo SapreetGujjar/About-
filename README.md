@@ -55,8 +55,15 @@
   </h1>
   <br>
   <img src="./Certificates/Sabi.jpeg" alt="Sorry">
-  
-  
+  <hr>
+  <br>
+  <h1>
+  SQL is Used To Communicate With a Database
+  </h1>
+ <br>
+ <img src="./Certificates/SQL.png" alt="Sorry">
+  <br>
+  <hr>
   
   
 
