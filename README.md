@@ -21,7 +21,7 @@
   <hr>
   <br>
   <h1>
-  Phthon in Artificial intelligence (AI) Workshop Certificates
+  Python in Artificial intelligence (AI) Workshop Certificates
   </h1>
   <br>
   <img src="./Certificates/AI_Workshop.png" alt="Sorry">
