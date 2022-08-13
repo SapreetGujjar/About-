@@ -39,6 +39,24 @@
   </h1>
   <br>
   <img src="./Certificates/Certificates_Workshop_APP LAB.png" alt="Sorry">
+  <br>
+  <hr>
+  <br>
+  <h1>
+  Internet of Things (IOT)
+  </h1>
+  <br>
+  <img src="./Certificates/Iot participation Certificate.png" alt="Sorry">
+  <br>
+  <hr>
+  <br>
+  <h1>
+  Live Workshop on Creating a Zomato Clone Using HTML & CSS.
+  </h1>
+  <br>
+  <img src="./Certificates/Sabi.jpeg" alt="Sorry">
+  
+  
   
   
 
