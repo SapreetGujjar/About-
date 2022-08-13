@@ -24,7 +24,7 @@
   Phthon in Artificial intelligence (AI) Workshop Certificates
   </h1>
   <br>
-  <img src="./Certificatess/AI_Workshop.png">
+  <img src="./Certificates/AI_Workshop.png" alt="Sorry">
   <br>
   <hr>
   <h1>
