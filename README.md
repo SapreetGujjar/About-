@@ -9,7 +9,7 @@
 <h1>
   Problem Siloving And Analysis
   </h1>
-  <img src="./Certificates/download.png" alt="Sorry ">
+  <img src="./Certificates/download.png" alt="Sorry " weight="50%" height="50%">
 
 <!---
 SapreetGujjar/SapreetGujjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
