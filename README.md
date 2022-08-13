@@ -7,7 +7,7 @@
 <hr> <hr>
 <br> <br>
 <h1>
-  Problem Siloving And Analysis
+  Problem Solving And Analysis
   </h1>
   <img src="./Certificates/download.png" alt="Sorry " weight="50%" height="50%">
   <br>
