@@ -65,6 +65,11 @@
  <img src="./Certificates/SQL.png" alt="Sorry">
   <br>
   <hr>
+  <br>
+  <h1>PHP Language Certificate </h1>
+  <hr>
+  <img src="./Certificates/PHP Language.png" alt="Sorry"
+       
   
   
 
